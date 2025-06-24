@@ -20,6 +20,8 @@ Simulação de uma urna eletrônica desenvolvida com HTML, CSS e JavaScript puro
 - HTML5
 - CSS3
 - JavaScript (ES6)
+## 📸 Captura de Tela
+![image](https://github.com/user-attachments/assets/a10b61f7-d191-4369-aaef-e9ced37cd20d)
 
 ## 🧪 Como testar
 
